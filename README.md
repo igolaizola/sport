@@ -1,4 +1,4 @@
-# 🏊‍♂️🏃‍♂️🚴‍♂️🚣‍♂️
+# 🏊🏃🚴🚣
 
 👋 Welcome to my sports-related repository!
 
@@ -35,3 +35,13 @@ These books have helped me improve my planning and training skills:
 [The Triathlete’s Training Bible, 4th Ed. by Joe Friel](https://joefrieltraining.com/book/the-triathletes-training-bible-4th-ed/)
 
 [Total Immersion: The Revolutionary Way To Swim Better, Faster, and Easier](https://www.amazon.com/Total-Immersion-Revolutionary-Better-Faster/dp/0743253434)
+
+## 🌐 Social
+
+🎥 Video descending the Bidasoa river in a canoe: [Link](https://youtu.be/Qph_S8DXnDI)
+
+[![Video descending the Bidasoa River in a canoe](https://github.com/igolaizola/sport/assets/11333576/f39450ec-cc26-4879-a46b-d601ad403d7f)](https://youtu.be/Qph_S8DXnDI)
+
+📝 Blog post I about my first planning experience (spanish): [Link](https://www.strava.com/athletes/6786139/posts/847264)
+
+👉 Follow me on [Strava](https://www.strava.com/athletes/igolaizola)
