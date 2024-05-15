@@ -12,13 +12,14 @@ Feel free to explore and join me on this exciting sporting journey!
 
 Here are some of my best race times:
 
-| Race | Time | Position | Date | Results |
-| - | - | - | - | - | 
-| Marathon San Sebastian | 2:53:06 | 180th | Nov 2019 | [Link](races/2019-marathon-san-sebastian.pdf) |
-| 20K Behobia - San Sebastian | 1:14:37 | 332th | Nov 2019 | [Link](https://clasificacion.behobia-sansebastian.com/oficial.php?accion=buscar&ano=2019&dorsal=1489&lang=es) |
-| 10K Spring Race San Sebastian | 0:36:33| 77th  | Mar 2019 | [Link](https://www.donostiarrak.com/?q=com_clasificaciones) |
-| Half Triathlon La Rioja | 4:59:06| 110th | Jun 2018 | [Link](races/2018-half-triathlon-la-rioja.pdf) |
-| Half Marathon Irun | 1:22:02 | 36th | Feb 2018 | [Link](races/2018-half-marathon-irun.pdf) |
+| Race                          | Time    | Position | Date     | Results                                                                                                       |
+| ----------------------------- | ------- | -------- | -------- | ------------------------------------------------------------------------------------------------------------- |
+| Marathon Valencia             | 2:49:44 | 2745th   | Dec 2023 | [Link](races/2023-marathon-valencia.pdf)                                                                      |
+| Marathon San Sebastian        | 2:53:06 | 180th    | Nov 2019 | [Link](races/2019-marathon-san-sebastian.pdf)                                                                 |
+| 20K Behobia - San Sebastian   | 1:14:37 | 332th    | Nov 2019 | [Link](https://clasificacion.behobia-sansebastian.com/oficial.php?accion=buscar&ano=2019&dorsal=1489&lang=es) |
+| 10K Spring Race San Sebastian | 0:36:33 | 77th     | Mar 2019 | [Link](https://www.donostiarrak.com/?q=com_clasificaciones)                                                   |
+| Half Triathlon La Rioja       | 4:59:06 | 110th    | Jun 2018 | [Link](races/2018-half-triathlon-la-rioja.pdf)                                                                |
+| Half Marathon Irun            | 1:22:02 | 36th     | Feb 2018 | [Link](races/2018-half-marathon-irun.pdf)                                                                     |
 
 ## 📅 Training plans
 
